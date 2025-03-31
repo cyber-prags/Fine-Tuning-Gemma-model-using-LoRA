@@ -1,4 +1,6 @@
 # Fine-Tuning Gemma Models in Keras using LoRA
+![image](https://github.com/user-attachments/assets/5537f6d2-d771-413a-944f-a660b5aad4df)
+
 
 This project demonstrates how to fine-tune Google's Gemma language models using **Keras** and **Low-Rank Adaptation (LoRA)**. The notebook walks through model loading, lightweight fine-tuning with LoRA, and inference before and after fine-tuning. This guide is perfect for machine learning practitioners who want to fine-tune LLMs efficiently using limited resources.
 
@@ -43,6 +45,8 @@ Gemma models are similar to LLaMA, Mistral, and other transformer-based autoregr
 ---
 
 ## 🦖 What is LoRA?
+![image](https://github.com/user-attachments/assets/6eafffca-9ff5-40b1-ac87-5deb0beb66db)
+
 
 **LoRA (Low-Rank Adaptation)** is a fine-tuning technique that:
 - Introduces small trainable matrices into the transformer architecture.
